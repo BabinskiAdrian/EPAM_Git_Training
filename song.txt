@@ -2,3 +2,4 @@ Usunięcie pierwszej lini
 jest
 Linijka dodana na GitHub
 GUI testy
+Tylko ta linijka, a ta wyżej nie
