@@ -8,3 +8,5 @@ Częściowy komit
 Tylko ta linijka, a ta wyżej nie
 
 Komit do cofnięcia
+
+Zmiana na branchu newFeature
