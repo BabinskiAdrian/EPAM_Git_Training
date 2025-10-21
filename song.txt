@@ -8,5 +8,3 @@ Częściowy komit
 Tylko ta linijka, a ta wyżej nie
 
 Komit do cofnięcia
-
-Trening cofnięcia z remote
