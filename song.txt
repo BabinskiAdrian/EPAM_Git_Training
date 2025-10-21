@@ -2,4 +2,9 @@ Usunięcie pierwszej lini
 jest
 Linijka dodana na GitHub
 GUI testy
+
+Częściowy komit
+
 Tylko ta linijka, a ta wyżej nie
+
+Komit do cofnięcia
