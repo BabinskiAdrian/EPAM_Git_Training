@@ -3,3 +3,6 @@ Stworznej w main
 Na galezi newFeature
 
 Dodawanie z branch Main
+
+Dodanie 7 lini z newFeature
+
