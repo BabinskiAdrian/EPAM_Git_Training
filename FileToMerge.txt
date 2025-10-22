@@ -1,3 +1,5 @@
 Nadpianie czesci
 Stworznej w main
 Na galezi newFeature
+
+Dodawanie z branch Main
