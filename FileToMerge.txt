@@ -1,3 +1,5 @@
 Nadpianie czesci
 Stworznej w main
 Na galezi newFeature
+
+Dodanie 5 lini z newFeature
