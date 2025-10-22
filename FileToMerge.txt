@@ -1,0 +1,3 @@
+Nadpianie czesci
+Stworznej w main
+Na galezi newFeature
